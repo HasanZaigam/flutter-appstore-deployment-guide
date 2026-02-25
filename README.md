@@ -38,7 +38,11 @@ Development
 
 ## Detailed Guide
 
-(Then paste your structured documentation here)
+The complete step-by-step guide is available here:
+
+👉 **[Full Deployment Guide](docs/flutter-appstore-testflight-guide.md)**
+
+This document explains the entire lifecycle from project preparation to public release.
 
 ---
 
