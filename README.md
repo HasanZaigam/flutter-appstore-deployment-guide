@@ -40,7 +40,7 @@ Development
 
 The complete step-by-step guide is available here:
 
-👉 **[Full Deployment Guide](docs/flutter-appstore-testflight-guide.md)**
+👉 **[Full Deployment Guide]([docs/Flutter App Store (testflight) mode.md](https://github.com/HasanZaigam/flutter-appstore-deployment-guide/blob/71270f903960950603b420e136b104019fe0a12c/docs/Flutter%20App%20Store%20(testflight)%20mode.md))**
 
 This document explains the entire lifecycle from project preparation to public release.
 
