@@ -1,9 +1,6 @@
 
----
 
-#  Deploying a Flutter App to the App Store with TestFlight
 
-```markdown
 # Deploying a Flutter App to the App Store with TestFlight
 
 A beginner-friendly guide explaining the complete lifecycle of publishing a Flutter app to the App Store, including internal and external beta testing using TestFlight.
@@ -331,4 +328,3 @@ Every version requires review.
 - Using debug API endpoints
 - Not testing on a real device
 - Bundle identifier mismatch
-```
